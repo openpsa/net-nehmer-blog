@@ -1,0 +1,172 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING %s category %s
+%s: kategoria "%s"
+---STRINGEND
+
+---STRING archive
+Arkisto
+---STRINGEND
+
+---STRING archive item order
+Arkiston järjestys
+---STRINGEND
+
+---STRING archive_enable
+Salli arkistojen käyttö
+---STRINGEND
+
+---STRING article
+Artikkeli
+---STRINGEND
+
+---STRING ascending
+Nouseva
+---STRINGEND
+
+---STRING atom feed
+Atom-syöte
+---STRINGEND
+
+---STRING available feeds
+Uutissyötteet
+---STRINGEND
+
+---STRING available feeds introduction
+Seuraavat sisällön syndikointiformaatit ovat saatavilla:
+---STRINGEND
+
+---STRING blog settings
+Blogin asetukset
+---STRINGEND
+
+---STRING categories
+Kategoriat
+---STRINGEND
+
+---STRING comments_enable
+Salli uutisten kommentointi (vaatii net.nehmer.comments -komponentin)
+---STRINGEND
+
+---STRING content
+Sisältö
+---STRINGEND
+
+---STRING descending
+Laskeva
+---STRINGEND
+
+---STRING edit article
+Muokkaa artikkelia
+---STRINGEND
+
+---STRING enable scheduled publishing
+Käytä ajastettua julkaisua
+---STRINGEND
+
+---STRING first post was made on %s.
+Julkaistu %s.
+---STRINGEND
+
+---STRING index_entries
+Näytä näin monta artikkelia etusivulla
+---STRINGEND
+
+---STRING index_info
+Komponentin kansion etusivu.
+---STRINGEND
+
+---STRING latest_info
+Viimeisimmän {$args[0]} uutisen näyttö.
+---STRINGEND
+
+---STRING link_to_external_url
+Linkitä artikkelit ulkoiseen osoitteeseen jos saatavilla
+---STRINGEND
+
+---STRING navigation options
+Navigaatioasetukset
+---STRINGEND
+
+---STRING net.nehmer.blog
+Uutiskansio
+---STRINGEND
+
+---STRING no news found.
+Ei uutisia.
+---STRINGEND
+
+---STRING posted on %s.
+Julkaistu %s.
+---STRINGEND
+
+---STRING related stories
+Lisää aiheesta
+---STRINGEND
+
+---STRING rss 0.91 feed
+RSS 0.91 -syöte
+---STRINGEND
+
+---STRING rss 1.0 feed
+RSS 1.0 -syöte
+---STRINGEND
+
+---STRING rss 2.0 feed
+RSS 2.0 -syöte
+---STRINGEND
+
+---STRING rss_subscription_enable
+Salli uutisten luonti ulkoisista RSS- ja Atom-syötteistä
+---STRINGEND
+
+---STRING schema settings
+Tietokanta-asetukset
+---STRINGEND
+
+---STRING schemadb
+Artikkeleille käytettävä tietokantakuvaus
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds and archive links in navigation
+Aseta tämä kohtaan 'ei' jos haluat piilottaa linkit 'Syötteet' ja 'Arkisto' navigaatiosta
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds link in navigation
+Aseta tämä pois päältä mikäli et halua näyttää syötteet-linkkiä navigaatiosta
+---STRINGEND
+
+---STRING set to no for de.linkm.newsticker compatibility
+Aseta kohtaan ei, jos haluat de.linkm.newsticker -yhteensopivuuden
+---STRINGEND
+
+---STRING show feeds in navigation
+Näytä saatavilla olevat syötteet navigaatiossa
+---STRINGEND
+
+---STRING show latest items in navigation
+Näytä viimeisimmät kohteet navigaatiossa
+---STRINGEND
+
+---STRING show pseudo leaves in navigation
+Näytä valesivut navigaatiossa
+---STRINGEND
+
+---STRING there is a total of %d posts.
+Yhteensä %s uutista.
+---STRINGEND
+
+---STRING use view prefix in url
+Käytä 'view'-etuliitettä osoitteissa
+---STRINGEND
+
+---STRING list articles from folders
+Näytä uutiset myös kansioista
+---STRINGEND
+
+---STRING folders
+Kansiot
+---STRINGEND
+

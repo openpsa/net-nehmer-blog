@@ -1,0 +1,147 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE de
+
+---STRING %s category %s
+%s: Kategorie "%s"
+---STRINGEND
+
+---STRING archive
+Archiv
+---STRINGEND
+
+---STRING archive item order
+Reihenfolge der Einträge im Archiv
+---STRINGEND
+
+---STRING archive_enable
+Archivzugriff aktivieren
+---STRINGEND
+
+---STRING article
+Artikel
+---STRINGEND
+
+---STRING ascending
+Aufsteigend
+---STRINGEND
+
+---STRING atom feed
+ATOM-Feed
+---STRINGEND
+
+---STRING available feeds
+Verfügbare Newsfeeds
+---STRINGEND
+
+---STRING available feeds introduction
+Die folgenden Formate zur Content Syndication sind verfügbar:
+---STRINGEND
+
+---STRING blog settings
+Blog-Einstellungen
+---STRINGEND
+
+---STRING categories
+Kategorien
+---STRINGEND
+
+---STRING comments_enable
+Kommentare zu News-Beiträgen erlauben (benötigt die net.nehmer.comments-Komponente)
+---STRINGEND
+
+---STRING content
+Inhalt
+---STRINGEND
+
+---STRING descending
+Absteigend
+---STRINGEND
+
+---STRING edit article
+Artikel bearbeiten
+---STRINGEND
+
+---STRING first post was made on %s.
+Die erste Nachricht wurde am %s veröffentlicht.
+---STRINGEND
+
+---STRING index_entries
+Wieviele Einträge sollen auf der Übersichtsseite angezeigt werden
+---STRINGEND
+
+---STRING link_to_external_url
+Einträge mit externer URL verknüpfen falls möglich
+---STRINGEND
+
+---STRING navigation options
+Navigations-Optionen
+---STRINGEND
+
+---STRING net.nehmer.blog
+News-Liste
+---STRINGEND
+
+---STRING no news found.
+Keine Artikel gefunden.
+---STRINGEND
+
+---STRING posted on %s.
+Veröffentlicht am %s.
+---STRINGEND
+
+---STRING related stories
+Verwandte Artikel
+---STRINGEND
+
+---STRING rss 0.91 feed
+RSS 0.91-Feed
+---STRINGEND
+
+---STRING rss 1.0 feed
+RSS 1.0-Feed
+---STRINGEND
+
+---STRING rss 2.0 feed
+RSS 2.0-Feed
+---STRINGEND
+
+---STRING rss_subscription_enable
+Das Erstellen von Einträgen über entfernte RSS- und ATOM-Feeds zulassen
+---STRINGEND
+
+---STRING schema settings
+Schema-Einstellungen
+---STRINGEND
+
+---STRING schemadb
+Schema-Datenbank für Artikel
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds and archive links in navigation
+Wählen Sie hier "Nein", um Feed- und Archiv-Links aus der Navigation auszublenden
+---STRINGEND
+
+---STRING set to no for de.linkm.newsticker compatibility
+Wählen Sie hier "Nein" für de.linkm.newsticker-Kompatibilität
+---STRINGEND
+
+---STRING show latest items in navigation
+Die letzten Einträge in der Navigation anzeigen
+---STRINGEND
+
+---STRING show pseudo leaves in navigation
+Pseudo-Leaves in der Navigation anzeigen
+---STRINGEND
+
+---STRING there is a total of %d posts.
+Es sind insgesamt %d Nachrichten vorhanden.
+---STRINGEND
+
+---STRING use view prefix in url
+'view' als URL-Präfix verwenden
+---STRINGEND
+
+---STRING enable scheduled publishing
+Zeitversetzte Veröffentlichung aktivieren
+---STRINGEND

@@ -1,0 +1,148 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE sv
+
+---STRING %s category %s
+%s: kategori "%s"
+---STRINGEND
+
+---STRING archive
+Arkiv
+---STRINGEND
+
+---STRING article
+Artikel
+---STRINGEND
+
+---STRING ascending
+Ascending
+---STRINGEND
+
+---STRING atom feed
+ATOM feed
+---STRINGEND
+
+---STRING available feeds
+Tillgängliga feeds
+---STRINGEND
+
+---STRING blog settings
+Blog inställningar
+---STRINGEND
+
+---STRING categories
+Kategorier
+---STRINGEND
+
+---STRING comments_enable
+Slå på kommentering av nyhetsartiklar (kräver net.nehmer.comments komponenten)
+---STRINGEND
+
+---STRING content
+Innehåll
+---STRINGEND
+
+---STRING descending
+Descending
+---STRINGEND
+
+---STRING edit article
+Ändra Artikel
+---STRINGEND
+
+---STRING enable scheduled publishing
+Slå på schemalagd publicering
+---STRINGEND
+
+---STRING first post was made on %s.
+Första postningen vad gjord %s.
+---STRINGEND
+
+---STRING index_entries
+Lista såhär många artiklar på index sidan
+---STRINGEND
+
+---STRING link_to_external_url
+Länka artiklar till extern URL om tillgänglig
+---STRINGEND
+
+---STRING navigation options
+Navigerings inställningar
+---STRINGEND
+
+---STRING net.nehmer.blog
+Nyhets listning
+---STRINGEND
+
+---STRING no news found.
+Inga nyheter funna.
+---STRINGEND
+
+---STRING posted on %s.
+Postad %s.
+---STRINGEND
+
+---STRING related stories
+Relaterade artiklar
+---STRINGEND
+
+---STRING rss 0.91 feed
+RSS 0.91 feed
+---STRINGEND
+
+---STRING rss 1.0 feed
+RSS 1.0 feed
+---STRINGEND
+
+---STRING rss 2.0 feed
+RSS 2.0 feed
+---STRINGEND
+
+---STRING schema settings
+Schemainställningar
+---STRINGEND
+
+---STRING schemadb
+Databasschema för artiklar
+---STRINGEND
+
+---STRING show latest items in navigation
+Visa senaste artiklar i navigering
+---STRINGEND
+
+---STRING there is a total of %d posts.
+Det finns totalt %d postningar.
+---STRINGEND
+
+---STRING use view prefix in url
+Använd 'view' prefix i url
+---STRINGEND
+
+---STRING archive item order
+Arkivets ordning
+---STRINGEND
+
+---STRING archive_enable
+Slå på bläddring för arkiv
+---STRINGEND
+
+---STRING available feeds introduction
+Följande innehålls syndikerings format är tillgängliga:
+---STRINGEND
+
+---STRING rss_subscription_enable
+Slå på skapande av nyhetsartiklar från andra RSS och Atom feeds
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds and archive links in navigation
+Sätt detta till 'Nej' om du vill dölja 'Feeds' och 'Arkiv' länkar i navigering
+---STRINGEND
+
+---STRING set to no for de.linkm.newsticker compatibility
+Sätt till nej för kompabilitet med de.linkm.newsticker
+---STRINGEND
+
+---STRING show pseudo leaves in navigation
+Visa pseudo leaves i navigering
+---STRINGEND
+

@@ -1,0 +1,180 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE pl
+
+---STRING %s category %s
+%s: kategoria "%s"
+---STRINGEND
+
+---STRING archive
+Archiwum
+---STRINGEND
+
+---STRING archive item order
+Kolejność w archiwum
+---STRINGEND
+
+---STRING archive_enable
+Włącz wyświetlanie archiwum
+---STRINGEND
+
+---STRING article
+Artykuł
+---STRINGEND
+
+---STRING ascending
+Rosnąco
+---STRINGEND
+
+---STRING atom feed
+Wsad ATOM
+---STRINGEND
+
+---STRING available feeds
+Dostępne wsady
+---STRINGEND
+
+---STRING available feeds introduction
+Dostępne są następujące wsady
+---STRINGEND
+
+---STRING blog settings
+Ustawienia bloga
+---STRINGEND
+
+---STRING categories
+Kategorie
+---STRINGEND
+
+---STRING comments_enable
+Włącz komentarze (wymaga net.nehmer.comments)
+---STRINGEND
+
+---STRING content
+Treść
+---STRINGEND
+
+---STRING descending
+Malejąco
+---STRINGEND
+
+---STRING edit article
+Edytuj
+---STRINGEND
+
+---STRING enable scheduled publishing
+Włącz planowanie publikacji
+---STRINGEND
+
+---STRING first post was made on %s.
+Pierwszy post: %s
+---STRINGEND
+
+---STRING index_entries
+Liczba pozycji w indeksie
+---STRINGEND
+
+---STRING index_info
+Wyświetla indeks wpisów
+---STRINGEND
+
+---STRING latest_info
+Wyświetla ostatnich {$args[0]} wpisów.
+---STRINGEND
+
+---STRING link_to_external_url
+Linkuj do zewnętrznych URLi jeśli możliwe
+---STRINGEND
+
+---STRING navigation options
+Opcje nawigacji
+---STRINGEND
+
+---STRING net.nehmer.blog
+Newsy/Blogi
+---STRINGEND
+
+---STRING no news found.
+Brak newsów
+---STRINGEND
+
+---STRING posted on %s.
+Wysłano %s.
+---STRINGEND
+
+---STRING related stories
+Artykuły powiązane
+---STRINGEND
+
+---STRING rss 0.91 feed
+RSS 0.91
+---STRINGEND
+
+---STRING rss 1.0 feed
+RSS 1.0
+---STRINGEND
+
+---STRING rss 2.0 feed
+RSS 2.0
+---STRINGEND
+
+---STRING rss_subscription_enable
+Dodawaj newsy ze zdalnych wsadów RSS i ATOM
+---STRINGEND
+
+---STRING schema settings
+Ustawienia schematów
+---STRINGEND
+
+---STRING schemadb
+Baza schematów
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds and archive links in navigation
+Wybierz 'Nie' jeśli chcesz ukryć link do Archiwum i Wsadów w nawigacji.
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds link in navigation
+Wybierz 'Nie' jeśli chcesz ukryć link do Wsadów w nawigacji.
+---STRINGEND
+
+---STRING set to no for de.linkm.newsticker compatibility
+Wybierz 'Nie' żeby włączyć zgodność z de.linkm.newsticker
+---STRINGEND
+
+---STRING show feeds in navigation
+Pokaż Wsady w nawigacji
+---STRINGEND
+
+---STRING show latest items in navigation
+Pokaż ostatnie wpisy w nawigacji
+---STRINGEND
+
+---STRING show pseudo leaves in navigation
+Pokaż pseudo strony w nawigacji
+---STRINGEND
+
+---STRING there is a total of %d posts.
+%d postów.
+---STRINGEND
+
+---STRING use view prefix in url
+Używaj elementu 'view' w URLach
+---STRINGEND
+
+---STRING disable indexing
+Wyłącz pełnotekstowe indeksowanie tego folderu
+---STRINGEND
+
+---STRING disable permalinks
+Wyłącz rozpoznawanie Permalink w tym folderze
+---STRINGEND
+
+---STRING list articles from folders
+Wyświetl artykuły także z folderów
+---STRINGEND
+
+---STRING folders
+Folderów
+---STRINGEND
+

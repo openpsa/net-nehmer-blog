@@ -1,0 +1,183 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE en
+
+---STRING %s category %s
+%s: category "%s"
+---STRINGEND
+
+---STRING archive
+Archive
+---STRINGEND
+
+---STRING archive item order
+Archive item order
+---STRINGEND
+
+---STRING archive_enable
+Enable archive browsing
+---STRINGEND
+
+---STRING article
+Article
+---STRINGEND
+
+---STRING ascending
+Ascending
+---STRINGEND
+
+---STRING atom feed
+ATOM feed
+---STRINGEND
+
+---STRING available feeds
+Available feeds
+---STRINGEND
+
+---STRING available feeds introduction
+The following content syndication feed formats are available:
+---STRINGEND
+
+---STRING blog settings
+Blog settings
+---STRINGEND
+
+---STRING categories
+Categories
+---STRINGEND
+
+---STRING comments_enable
+Enable commenting to news items (requires the net.nehmer.comments component)
+---STRINGEND
+
+---STRING ajax_comments_enable
+Show comments in listing (using AJAX, requires the net.nehmer.comments component)
+---STRINGEND
+
+---STRING content
+Content
+---STRINGEND
+
+---STRING descending
+Descending
+---STRINGEND
+
+---STRING disable indexing
+Disable indexing contents of this folder for full-text search
+---STRINGEND
+
+---STRING disable permalinks
+Disable resolving PermaLinks to this folder
+---STRINGEND
+
+---STRING edit article
+Edit Article
+---STRINGEND
+
+---STRING enable scheduled publishing
+Enable scheduled publishing
+---STRINGEND
+
+---STRING first post was made on %s.
+The first posting was made on %s.
+---STRINGEND
+
+---STRING index_entries
+List this many items on index page
+---STRINGEND
+
+---STRING index_info
+Prepares index view for component.
+---STRINGEND
+
+---STRING latest_info
+Displays lastest {$args[0]} entries.
+---STRINGEND
+
+---STRING link_to_external_url
+Link items to external URL if available
+---STRINGEND
+
+---STRING list articles from folders
+List articles also from folders
+---STRINGEND
+
+---STRING folders
+Folders
+---STRINGEND
+
+---STRING navigation options
+Navigation options
+---STRINGEND
+
+---STRING net.nehmer.blog
+News listing
+---STRINGEND
+
+---STRING no news found.
+No news found.
+---STRINGEND
+
+---STRING posted on %s.
+Posted on %s.
+---STRINGEND
+
+---STRING related stories
+Related stories
+---STRINGEND
+
+---STRING rss 0.91 feed
+RSS 0.91 feed
+---STRINGEND
+
+---STRING rss 1.0 feed
+RSS 1.0 feed
+---STRINGEND
+
+---STRING rss 2.0 feed
+RSS 2.0 feed
+---STRINGEND
+
+---STRING rss_subscription_enable
+Enable creating news items from remote RSS and Atom feeds
+---STRINGEND
+
+---STRING schema settings
+Schema settings
+---STRINGEND
+
+---STRING schemadb
+Database schema to use for articles
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds and archive links in navigation
+Set this to 'no' if you want to hide 'Feeds' and 'Archive' links in navigation
+---STRINGEND
+
+---STRING set this to no if you want to hide feeds link in navigation
+Set this to "no" if you want to hide feeds link from navigation
+---STRINGEND
+
+---STRING set to no for de.linkm.newsticker compatibility
+Set to no for de.linkm.newsticker compatibility
+---STRINGEND
+
+---STRING show feeds in navigation
+Show available feeds in navigation
+---STRINGEND
+
+---STRING show latest items in navigation
+Show latest items in navigation
+---STRINGEND
+
+---STRING show pseudo leaves in navigation
+Show pseudo leaves in navigation
+---STRINGEND
+
+---STRING there is a total of %d posts.
+There is a total of %d posts.
+---STRINGEND
+
+---STRING use view prefix in url
+Use 'view' prefix in url
+---STRINGEND
