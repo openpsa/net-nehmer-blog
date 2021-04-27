@@ -230,8 +230,6 @@ class net_nehmer_blog_handler_archive extends midcom_baseclasses_components_hand
      * - string 'url' => The URL to the month.
      * - string 'name' => The localized name of the month.
      * - int 'count' => The number of postings in that month.
-     *
-     * @param array $data The local request data.
      */
     public function _show_welcome(string $handler_id, array &$data)
     {
@@ -265,7 +263,7 @@ class net_nehmer_blog_handler_archive extends midcom_baseclasses_components_hand
                 $category = trim(strip_tags($args[1]));
                 if (   $data['datamanager']->get_schema('default')->has_field('categories')
                     && !$data['datamanager']->get_schema('default')->get_field('categories')['type_config']['allow_multiple']) {
-                    $qb->add_constraint('extra1', '=', (string) $category);
+                    $qb->add_constraint('extra1', '=', $category);
                 } else {
                     $qb->add_constraint('extra1', 'LIKE', "%|{$category}|%");
                 }
@@ -340,9 +338,6 @@ class net_nehmer_blog_handler_archive extends midcom_baseclasses_components_hand
      *
      * This is used by the archive-month handler, which expects the year to be in $args[0]
      * and the month to be in $args[1].
-     *
-     * @param int $year The year to query.
-     * @param int $month The month to query.
      */
     private function _set_startend_from_month(int $year, int $month)
     {
@@ -374,8 +369,6 @@ class net_nehmer_blog_handler_archive extends midcom_baseclasses_components_hand
 
     /**
      * Displays the archive.
-     *
-     * @param array $data The local request data.
      */
     public function _show_list(string $handler_id, array &$data)
     {
