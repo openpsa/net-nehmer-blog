@@ -15,6 +15,9 @@
     "require": {
         "openpsa/midcom-core": "dev-main"
     },
+    "suggest": {
+        "openpsa/universalfeedcreator": "To provide RSS/Atom feeds"
+    },
     "prefer-stable": true,
     "minimum-stability": "dev",
     "autoload": {
