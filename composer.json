@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "openpsa/midcom-core": "^9.9.0"
+        "openpsa/midcom-core": "dev-main"
     },
     "suggest": {
         "openpsa/universalfeedcreator": "To provide RSS/Atom feeds"
